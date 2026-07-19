@@ -13,7 +13,7 @@ A member of Communism Party of China (CPC). Lecturer in Statistics and Applied M
 	<img src="./images/vscode.svg" width="40" height="40" alt="vscode" />
 	<img src="./images/Logic.png" width="40" height="40" alt="Logic" />
 	<img src="./images/SPSS.svg" width="40" height="40" alt="SPSS" />
-	<img src="./images/Eviews.svg" width="40" height="40" alt="Eviews" />
+	<img src="./images/Eviews.png" width="40" height="40" alt="Eviews" />
 	<img src="./images/Genshin.webp" width="40" height="40" alt="Genshin" />
 	<img src="./images/wegame.png" width="40" height="40" alt="wegame" />
 	<img src="./images/steam.svg" width="40" height="40" alt="steam" />
