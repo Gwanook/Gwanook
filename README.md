@@ -19,6 +19,8 @@ A member of Communism Party of China (CPC). Lecturer in Statistics and Applied M
 	<img src="./images/steam.svg" width="40" height="40" alt="steam" />
 </div>
 
-<div align="center" style="margin-top:20px">
-	<img align="center" src="./images/github-contribution-grid-snake.svg"></img>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
