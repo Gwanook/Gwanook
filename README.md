@@ -2,7 +2,7 @@
 
 A member of Communism Party of China (CPC). Lecturer in Statistics and Applied Mathematics. MSc in Statistics, BSc in Mathematics and Applied Mathematics, BEc in Finance. A member of British Mensa and Society of Actuaries (SOA). Partners in BOOMCHA (붐차). Here are my [website](https://gwanook.github.io/) and my [brain](https://gwanook-files.github.io/).
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlwcDJtaWVsMzM5MnM2ZmE2bXo4eXpuNGlkcWl3OTB2ZjYzYW5rNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMYD1TaLfC8d65O1i9/giphy.gif" width="3%"> Language, Tools and Software
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjMydzZiMmc3YW9id3I1ZjRxaHQ5c2hjZG55Y3RnYXZvaHFmanh6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HrRvnN7NuJy4InG4MV/giphy.gif" width="3%"> Language, Tools and Software
 
 <div align="center" >
 	<img src="./images/github.svg" width="40" height="40" alt="github" />
